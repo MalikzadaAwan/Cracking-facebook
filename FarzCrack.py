@@ -83,7 +83,7 @@ def banner():
                              |___/                                                   
 """%(N))                                                    
 ───────────────────────────────────────────────────────
- [\x1b[1;96m+%s] Nama       : Farz Ganteng
+ [\x1b[1;96m+%s] Nama       : FarzGanteng
  [\x1b[1;96m+%s] Github      : https://github.com/FarzCracking
 ───────────────────────────────────────────────────────\n'''%(N,N,N,N))
 def kontol():
